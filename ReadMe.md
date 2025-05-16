@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hello! I am Romadhoni Kusuma Nanda Prihadi, usually called Nanda. I am currently an active student majoring in Information Technology Education at Surabaya State University. I have passion in education and application development.<br>In addition to academics, my hobbies are learning new things related to technology and application and website development, besides that I also like to play soccer and update about world soccer news.
 
+Website: http://nandaprihadi.ct.ws
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nandaprihadii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/romadhoni-prihadi-1333962b3) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_mdhnii) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nandzzkuy) 
