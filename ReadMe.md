@@ -1,4 +1,4 @@
-# About Me:
+# About Me
 Hello! I am Romadhoni Kusuma Nanda Prihadi, usually called Nanda. I am currently an active student majoring in Information Technology Education at Surabaya State University. I have passion in education and application development.<br>In addition to academics, my hobbies are learning new things related to technology and application and website development, besides that I also like to play soccer and update about world soccer news.
 
 Website: http://nandaprihadi.netlify.app
