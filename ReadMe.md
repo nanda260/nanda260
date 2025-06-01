@@ -1,4 +1,4 @@
-## Hello my name is Nanda
+## Hello! My name is Nanda
   
 -  I am enthusiastic and interested in the latest technological developments.
 
