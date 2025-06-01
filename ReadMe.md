@@ -9,7 +9,7 @@
 -  I have passion in education and application development.  
   
 
-- My hobbies are learning new things related to technology and application and website development  
+- My hobbies are learning new things related to application technology and website development  
 
   <img src="https://komarev.com/ghpvc/?username=nanda260&&style=flat-square" align="center" />
 
