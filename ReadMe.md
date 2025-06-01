@@ -8,7 +8,8 @@
   
 
 - My hobbies are learning new things related to technology and application and website development  
-  
+
+  <img src="https://komarev.com/ghpvc/?username=nanda260&&style=flat-square" align="center" />
 
 <br/>  
 
@@ -69,12 +70,3 @@
 
 <br/>
 <br/>
-
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=nanda260&&style=flat-square" align="center" />
-</div>  
