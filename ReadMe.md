@@ -61,7 +61,7 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="45%">
+<table style="border: none;"><tr><td valign="top" width="45%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=nanda260&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%" />
 
