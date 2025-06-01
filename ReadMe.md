@@ -56,18 +56,4 @@
 <a href="https://instagram.com/nandaprihadii" target="_blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>
 <a href="https://www.youtube.com/@nandzzkuy" target="_blank"><img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" /></a>  
 </div>  
-  
 
-<br/>  
-
-
-
-## Github Stats  
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nanda260&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 45%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanda260&hide_border=true&layout=compact" align="left" style="width: 45%" />
-</div>
-
-<br/>
-<br/>
