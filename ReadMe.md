@@ -1,6 +1,8 @@
-## Hello my name is Nanda, and I am enthusiastic and interested in the latest technological developments.
+## Hello my name is Nanda
   
+-  I am enthusiastic and interested in the latest technological developments.
 
+  
 - I am currently an active student majoring in Information Technology Education at Surabaya State University.  
   
 
